@@ -1,6 +1,6 @@
 # MemeVault
 
-**MemeVault** is a React + Vite web app to browse, upload, and share memes.
+**MemeVault** is a React + Vite web app.
 
 **Live Demo:** [Click here to view](https://Sudharshana-d.github.io/memeVault/)
 
